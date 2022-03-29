@@ -9,7 +9,7 @@ This repository shares the starter code for the [YouTube Tutorial](https://youtu
 
 - There are images of the 3 web pages you need to build in the examples folder. Use them as references for what you build.
 
-- You should name your files: index.html, hours.html, and contact.html
+- You should name your files: homepage.html, serviceHours.html, and contactUs.html
 
 - There is minimal CSS already available in css/styles.css. You need to link that file to your HTML files. 
 
